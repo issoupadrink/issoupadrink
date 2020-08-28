@@ -5,3 +5,4 @@
 
 Sup! I'm a Software Test Engineer at [IOHK](https://iohk.io) working on open source blockchain projects like [cardano](https://cardano.org/). You can see an example of my work [here](https://github.com/issoupadrink/cardano-rest-tests). Previously I was a software engineer at [Edplus](https://www.edtopia.io/) and [Oxford Computer Consultants](https://www.oxfordcc.co.uk/custom-software/), and a tech manager at [Apex-MT](https://apex-mt.com/).
 
+In my spare time I'm taking CS/ML courses at [UC San Diego](https://extension.ucsd.edu/courses-and-programs/machine-learning-methods) and [Stanford](https://continuingstudies.stanford.edu/courses/professional-and-personal-development/machine-learning-with-python/20201_CS-08-W) and am an Associate Alumni of [Oxford University](https://www.conted.ox.ac.uk/about/advanced-diploma-in-data-and-systems-analysis). 
